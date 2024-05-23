@@ -1,0 +1,119 @@
+*{
+    font-family: Arial, sans-serif;
+} 
+body{
+    background-color: rgba(128, 128, 128, 0.192);
+}
+.main_div{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgba(0, 0, 0, 0.833);
+}
+
+.main_div div{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.005);
+}
+.main_div div a{
+    color: rgba(255, 255, 255, 0.721);
+    text-decoration: none;
+    /* font-size: 15px; */
+}
+
+.container{
+    box-shadow: 0 0 2px;
+    border: 2px solid white;
+    background-color: white;
+    width: 70%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rem{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.link{
+    text-decoration: none;
+}
+.apple{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+hr{
+    width: 85%;
+}
+
+.rip{
+    padding-left: 20%;
+    font-weight: bolder;
+}
+.genius{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.think{
+    padding-left: 20%;
+    font-weight: bolder;
+}
+.tonight{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.remembering{
+    padding-left: 20%;
+    font-weight: bolder;
+}
+.stranger{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.many{
+    padding-left: 20%;
+    font-weight: bolder;
+}
+.impacted{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.rest{
+    padding-left: 20%;
+    font-weight: bolder;
+}
+.sorry{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.miss{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.tribute{
+    padding-left: 20%;
+    font-weight: bolder;
+}
+.message{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+small{
+    opacity: 0.5;
+}
+
+
+footer{
+    text-align: center;
+}
+
+
+
